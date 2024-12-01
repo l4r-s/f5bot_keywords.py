@@ -1,0 +1,7 @@
+track_keywords:
+  - keyword: "Keyword to watch 1"
+    enabled: true
+  - keyword: "Keyword to watch 2"
+    enabled: false
+    whole_word: true
+    flags: "no-reddit, no-posts"
