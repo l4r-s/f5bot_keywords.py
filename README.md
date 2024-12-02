@@ -1,3 +1,5 @@
+[![Sponsor](https://img.shields.io/badge/Sponsor-❤-EA4AAA.svg)](https://github.com/sponsors/l4r-s)
+
 # f5bot_keywords.py
 
 This script automates the process of adding keywords to F5Bot. It supports loading keywords from a YAML file and uses a session-based approach for authentication and interaction with F5Bot's web interface.
